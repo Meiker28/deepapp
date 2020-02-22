@@ -25,5 +25,5 @@ tensorflow==2.0.0a0
 tensorflow-estimator==1.14.0
 testpath==0.3.1
 tf-estimator-nightly==1.14.0.dev2019030115
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 
